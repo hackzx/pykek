@@ -1,3 +1,6 @@
+http://zone.wooyun.org/content/17102 
+MS14-068 privilege escalation PoC: 可以让任何域内用户提升为域管理员
+
 Python Kerberos Exploitation Kit
 ===
 
